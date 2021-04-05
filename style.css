@@ -1,0 +1,112 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #fff;
+    background-image: url(images/powerlines-with-grey-gradient.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    padding-top: 20px;
+}
+
+
+
+header {
+    background-color:white;
+    height: 118px;
+    text-align: center;
+    
+}
+
+
+
+nav {
+    background-color:rgb(54, 54, 190);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+
+
+main {
+    background-color:whitesmoke;
+    height: 400px;
+    text-align: center;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+
+
+footer {
+    background-color:#e3e3e59c;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+h1 {
+    font-size: 70px;
+    color:rgb(54, 54, 190);
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+
+p {
+
+    font-size: 18px;
+    color:slategrey;
+    font-family: Helvetica, sans-serif;
+
+}
+
+a {
+    color:darkgrey;
+    font-family: Helvetica, sans-serif;
+}
+
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer p{
+    font-size: 12px;
+    text-align: center;
+    color: yellowgreen;
+
+}
+
+.inveralmond-house {
+    padding-bottom: 60px;
+}
+
+.appvideo {
+    text-align: center;
+}
+
+.univideo {
+    text-align: center;
+}
+
+.iman {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
